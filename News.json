@@ -1,4 +1,5 @@
-{
+[
+  {
   "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/ocean.jpg?raw=true",
   "news": "This will be the Text"
 },
@@ -6,4 +7,5 @@
   "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/ocean.jpg?raw=true",
   "news": "This will be Text 2"
 }
+]
 
