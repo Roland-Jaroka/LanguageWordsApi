@@ -1,11 +1,13 @@
 [
   {
   "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/ocean.jpg?raw=true",
-  "news": "This will be the Text"
+  "news": "This will be the Text",
+  "clickable": true
 },
 {
   "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/ocean.jpg?raw=true",
-  "news": "This will be Text 2"
+  "news": "This will be Text 2",
+  "clickable": false
 }
 ]
 
