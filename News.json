@@ -1,6 +1,6 @@
 [
   {
-  "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/ocean.jpg?raw=true",
+  "imageUrl": "https://raw.githubusercontent.com/Roland-Jaroka/LanguageWordsApi/refs/heads/main/syncronise.png",
   "news": "Sync with the Cloud",
   "message": "We have made changes on the database so if your data is not on sync then click here",
   "clickable": true
