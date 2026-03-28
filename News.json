@@ -1,12 +1,14 @@
 [
   {
   "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/ocean.jpg?raw=true",
-  "news": "This will be the Text",
+  "news": "Sync with the Cloud",
+  "message": "We have made changes on the database so if your data is not on sync then click here",
   "clickable": true
 },
 {
   "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/ocean.jpg?raw=true",
-  "news": "This will be Text 2",
+  "news": "This is a title",
+  "message": "This is a message",
   "clickable": false
 }
 ]
