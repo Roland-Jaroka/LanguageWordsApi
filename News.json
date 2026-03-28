@@ -6,9 +6,9 @@
   "clickable": true
 },
 {
-  "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/ocean.jpg?raw=true",
-  "news": "This is a title",
-  "message": "This is a message",
+  "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/notifications.jpg?raw=true",
+  "news": "About the app",
+  "message": "This is our new board, here you will see news and info about the app, that might come useful",
   "clickable": false
 }
 ]
