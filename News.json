@@ -2,13 +2,17 @@
   {
   "imageUrl": "https://raw.githubusercontent.com/Roland-Jaroka/LanguageWordsApi/refs/heads/main/syncronise.png",
   "news": "Sync with the Cloud",
-  "message": "We have made changes on the database so if your data is not on sync then click here",
+  "messageEn": "We have made changes on the database so if your data is not on sync then click here",
+  "messageJp": "ダタベースを改善しましたので、まだ同期していない場合はここをタップしてください",
+  "messageHu": "Módosításokat végeztünk az adatbázison, ezért ha még nem szinkronizáltad az adatokat tappints ide",
   "clickable": true
 },
 {
   "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/notifications.jpg?raw=true",
   "news": "About the app",
-  "message": "This is our new board, here you will see news and info about the app, that might come useful",
+  "messageEn": "This is our new board, here you will see news and info about the app, that might come useful",
+  "messageJp": "これは新しい看板です。　ここでアップリについての便利な情報を貼っておきます",
+  "messageHu": "Ez itt az új hírdető táblánk. Itt láthatsz új információkat az appról, amik hasznosak lehetnek",
   "clickable": false
 }
 ]
