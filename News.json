@@ -1,13 +1,13 @@
 [
   {
-  "imageUrl": "https://raw.githubusercontent.com/Roland-Jaroka/LanguageWordsApi/refs/heads/main/syncronise.png",
-  "newsEn": "Sync with the Cloud",
-  "newsJp": "クラウドと同期",
-  "newsHu": "Szinkronizálj a felhővel",
-  "messageEn": "We have made changes on the database so if your data is not on sync then click here",
-  "messageJp": "ダタベースを改善しましたので、まだ同期していない場合はここをタップしてください",
-  "messageHu": "Módosításokat végeztünk az adatbázison, ezért ha még nem szinkronizáltad az adatokat tappints ide",
-  "clickable": true
+  "imageUrl": "https://raw.githubusercontent.com/Roland-Jaroka/LanguageWordsApi/refs/heads/main/exam_image_2.png",
+  "newsEn": "Language Exam",
+  "newsJp": "言語能力試験",
+  "newsHu": "Nyelvvizsga",
+  "messageEn": "Try out our whole new language exam feature where an AI agent creates a 5 question reading language exam for you",
+  "messageJp": "AIが言語能力試験を作成する新しい機能をお試しください。",
+  "messageHu": "Próbáld ki a legújabb nyelvvizsga funkciónkat, ahol egy AI ügynök egy 5 kérdéses olvasási szövegértés feladatot készít neked",
+  "clickable": false
 },
 {
   "imageUrl": "https://github.com/Roland-Jaroka/LanguageWordsApi/blob/main/notifications.jpg?raw=true",
